@@ -51,4 +51,4 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 
     git clone https://github.com/GR3YH4TT3R93/OurNvim.git ~/.config/nvim
 
-####### Open Neovim to Install Plugins
+## Open Neovim to Install Plugins
